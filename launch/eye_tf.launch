@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="tf" type="static_transform_publisher" name="camera_tf" args="-0.00006286 0.0719933 0.0376066 0.00055 -0.000125 -0.00095 /tool0 /eye_link 100" />
+<launch/>
